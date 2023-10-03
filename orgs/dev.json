@@ -1,6 +1,7 @@
 {
   "orgName": "Test-No1 - Dev Org",
   "edition": "Developer",
+  "release": "Preview",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
